@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-
+Resorts of the Beach
 ### [Live Site](https://61dbe6e8bb5c3d4f9b154364--laughing-payne-93bb63.netlify.app/)
 
 ## Available Scripts
